@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img width="600" height="300" alt="Github Profile" src="https://github.com/user-attachments/assets/b829ee80-4ab5-408d-8329-de7debb4f1c7" />
+
 </div>
 
 ###
