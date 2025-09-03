@@ -1,8 +1,11 @@
 <div align="center">
 <img width="600" height="auto" alt="Github Profile (1)" src="https://github.com/user-attachments/assets/7fcdba6c-cc3f-4894-9ae9-ad89f3a295f9" />
-
 </div>
 
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=1maginativepen&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 ###
 
 <div align="center">
@@ -52,9 +55,5 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=1maginativepen&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
