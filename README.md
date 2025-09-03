@@ -27,7 +27,7 @@
 
 <p>&nbsp;</p>
 
-<h2 align="center">Experiences </h2> 
+<h2 align="center">Work Experiences </h2> 
 
 <h4>Senior WordPress Developer - The Law Office of Arash Khorsandi</h4>
 Responsible for developing WordPress websites from the ground up, including converting written content into engaging landing pages such as blogs, news, and other site pages. Skilled at transforming UI designs into fully functional, responsive websites, while also creating custom WordPress plugins to extend functionality and meet unique project requirements.
