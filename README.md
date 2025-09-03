@@ -29,4 +29,17 @@
 
 <h2 align="center">Experiences </h2> 
 
-###
+<h4>Senior WordPress Developer - The Law Office of Arash Khorsandi</h4>
+Responsible for developing WordPress websites from the ground up, including converting written content into engaging landing pages such as blogs, news, and other site pages. Skilled at transforming UI designs into fully functional, responsive websites, while also creating custom WordPress plugins to extend functionality and meet unique project requirements.
+
+<h4>Website Developer - DakotaQ Internet Services</h4>
+Responsible for developing WordPress web applications while also creating intuitive UI designs tailored to client needs. Experienced in converting UI designs into responsive, fully functional websites and building custom WordPress plugins to deliver advanced features and seamless functionality.
+
+<h4>Accounts Manager | Developer - DeliDori</h4>
+Responsible for maintaining strong relationships with existing clients while actively seeking opportunities to expand the client database. Ensures all company software remains up to date and evaluates potential tools for future use to improve operations. Additionally, manages product inventory to keep business processes organized and efficient.
+
+<h4>Full-stack Front End Developer - SmartView Media - AU</h4>
+Responsible for developing WordPress web applications and designing user-friendly interfaces that align with client needs. Skilled at converting UI designs into fully functional, responsive websites, while also creating custom WordPress plugins to enhance performance and add tailored features.
+
+<h4>Software Engineer / Webmaster - Your Essential Techs</h4>
+Responsible for developing WordPress web applications and creating intuitive UI designs tailored to client requirements. Experienced in managing WHMCS and WHM for clients to ensure smooth hosting and billing operations. Additionally, designs new product branding for business owner clients, helping them establish a strong and professional market presence.
