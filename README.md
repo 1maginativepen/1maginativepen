@@ -1,3 +1,4 @@
+<p>&nbsp;</p>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=1maginativepen&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
@@ -8,33 +9,14 @@
 </div> -->
 
 <p align="center">I have a special mix of abilities that enable me to contribute both technical and artistic solutions to any project as a software developer and graphics designer. I specialize in creating aesthetically pleasing, functional, and user-friendly websites and software applications.</p>
+
+<h2 align="center">Most Recent Tools</h2>
+
 ###
 
-<h2 align="center">I code with</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-plain-wordmark.svg"  height="40" alt="react logo"   />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div>
-
-<h1 align="center">hey there 👋</h1>
+<div align="center"> 
+<img width="600" height="50" alt="Github Profile (600 x 100 px) (600 x 50 px)" src="https://github.com/user-attachments/assets/515dbf6b-c098-4f4a-99b1-eb6975209684" />
+</div> 
 
 ###
 
