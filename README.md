@@ -6,6 +6,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=1maginativepen&"  />
 </div>
 
+<p align="center">I have a special mix of abilities that enable me to contribute both technical and artistic solutions to any project as a software developer and graphics designer. I specialize in creating aesthetically pleasing, functional, and user-friendly websites and software applications.</p>
 ###
 
 <h1 align="center">hey there 👋</h1>
