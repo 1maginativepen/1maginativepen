@@ -2,9 +2,10 @@
   <img src="https://streak-stats.demolab.com?user=1maginativepen&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 <p>&nbsp;</p>
+<!-- <p>&nbsp;</p>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=1maginativepen&"  />
-</div>
+</div> -->
 
 <p align="center">I have a special mix of abilities that enable me to contribute both technical and artistic solutions to any project as a software developer and graphics designer. I specialize in creating aesthetically pleasing, functional, and user-friendly websites and software applications.</p>
 ###
